@@ -18,7 +18,7 @@ main {
 #productDescription
 {
 	display:flex;
-	flex-direction:column;
+	flex-direction:row;
 }
 .productImage
 {
@@ -57,8 +57,8 @@ font-family: 'helvetica', 'arial', sans-serif;
 
 #buynow
 {
-	width:30px;
-	height:10px;
+	width:80px;
+	height:30px;
 	border-radius:20px;
 	background-color:#ed1c24;
 	color:#fff;
