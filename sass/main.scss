@@ -13,8 +13,9 @@ main {
 	font-family: 'helvetica', 'arial', sans-serif;
 	text-align:center;
 	text-size: 30px;
-	letter-spacing: 3px;
+	letter-spacing:3px;
 }
+
 #productDescription
 {
 	display:flex;
@@ -55,6 +56,11 @@ font-family: 'helvetica', 'arial', sans-serif;
 	
 }
 
+#text
+{
+	display:flex;
+	flex-direction:column;
+}
 #buynow
 {
 	border:none;
